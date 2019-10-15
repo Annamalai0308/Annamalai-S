@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 24 16:12:30 2019
 
-@author: Allan Joshua
+
 """
 
 # Main.py
